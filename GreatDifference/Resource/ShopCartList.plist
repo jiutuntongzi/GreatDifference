@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<array>
+		<dict>
+			<key>shopName</key>
+			<string>便利店海岸城店</string>
+			<key>goods</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>商品名称</string>
+					<key>introduce</key>
+					<string>商品规格</string>
+					<key>price</key>
+					<string>￥69</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>商品名称1</string>
+					<key>introduce</key>
+					<string>商品规格1</string>
+					<key>price</key>
+					<string>￥60</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>shopName</key>
+			<string>母婴店</string>
+			<key>goods</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>电子产品</string>
+					<key>introduce</key>
+					<string>台湾进口</string>
+					<key>price</key>
+					<string>￥359</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>奶粉</string>
+					<key>introduce</key>
+					<string>商品规格</string>
+					<key>price</key>
+					<string>￥300</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>尿不湿</string>
+					<key>introduce</key>
+					<string>韩国进口</string>
+					<key>price</key>
+					<string>￥35</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>code</key>
+	<string>0</string>
+</dict>
+</plist>

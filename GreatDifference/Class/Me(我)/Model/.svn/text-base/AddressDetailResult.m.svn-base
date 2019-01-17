@@ -1,0 +1,13 @@
+//
+//  AddressDetailResult.m
+//  GreatDifference
+//
+//  Created by xiaodou_yxg on 2016/12/8.
+//  Copyright © 2016年 xiaodou. All rights reserved.
+//
+
+#import "AddressDetailResult.h"
+
+@implementation AddressDetailResult
+
+@end
